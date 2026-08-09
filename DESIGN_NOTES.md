@@ -34,4 +34,5 @@ I used Gemini and Claude as pair-programming and review tools, mainly for brains
 * **Testing and edge cases (Gemini & Claude):** I used both tools to question and test edge cases such as zero amounts, duplicate records, and future dates. I verified the behavior against the sample data and adjusted the implementation where needed.
 
 https://share.gemini.google/vHF7PvDVPY2C
+
 https://claude.ai/share/14588398-d775-4cd1-b967-eef2ca2e9bf3
